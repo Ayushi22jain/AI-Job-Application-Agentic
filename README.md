@@ -6,12 +6,6 @@ An AI-powered system that automates resume optimization and cover letter generat
 🔹 Designed with agentic workflow principles  
 🔹 Simulates real-world AI automation systems
 
-## 📸 Demo
-
-<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/d6951d73-eeb8-4fa6-a083-614e2ae8951a" />
-
-<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a61def33-59d1-449a-b2dc-1ff58a658398" />
-
 
 ## 🧠 Agentic Workflow Design
 
@@ -83,7 +77,14 @@ job-assistant/
 - Demonstrates agent-based AI system design  
 - Shows practical use of automation + AI workflows  
 - Can be extended to full-scale job automation system
-  
+
+  ## 📸 Demo
+
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/d6951d73-eeb8-4fa6-a083-614e2ae8951a" />
+
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a61def33-59d1-449a-b2dc-1ff58a658398" />
+
+
 
 🔹 Author
 

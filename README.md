@@ -12,7 +12,6 @@ An AI-powered system that automates resume optimization and cover letter generat
 
 <img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a61def33-59d1-449a-b2dc-1ff58a658398" />
 
-<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/b4ea1228-1968-4975-83b5-d50971ebe84e" />
 
 ## 🧠 Agentic Workflow Design
 

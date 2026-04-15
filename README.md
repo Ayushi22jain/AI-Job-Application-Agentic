@@ -70,11 +70,12 @@ job-assistant/
 - Generated Cover Letter
 
 
-🔹 Future Improvements
-- Integration with real LLM APIs
-- Job scraping automation
-- Interview preparation agent
-- Dashboard for tracking applications
+## 🚀 Future Scope
+
+- Real-time job scraping  
+- Interview preparation agent  
+- Auto-apply system  
+- Integration with LLM APIs  
 
 ## 🌟 Why This Project Matters
 
@@ -88,3 +89,7 @@ job-assistant/
 
     Ayushi Jain
 
+    ⚠️ Note: This project currently uses mock outputs for testing. It can be easily extended to integrate real LLM APIs.
+
+
+⚠️ Note: This project currently uses mock outputs for testing. It can be easily extended to integrate real LLM APIs.

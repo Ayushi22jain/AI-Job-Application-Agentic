@@ -85,7 +85,10 @@ job-assistant/
 <img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a61def33-59d1-449a-b2dc-1ff58a658398" />
 
 ##LOOM VIDEO LINK 
+
+
 https://www.loom.com/share/c17f41068ae7429fba982d749e5bb740
+
 
 🔹 Author
 

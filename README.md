@@ -77,6 +77,13 @@ job-assistant/
 - Interview preparation agent
 - Dashboard for tracking applications
 
+## 🌟 Why This Project Matters
+
+- Solves real-world problem of repetitive job applications  
+- Demonstrates agent-based AI system design  
+- Shows practical use of automation + AI workflows  
+- Can be extended to full-scale job automation system
+  
 
 🔹 Author
 

@@ -4,7 +4,7 @@ This project is an AI-powered Job Application Assistant designed to automate rep
 
 It uses an agent-based workflow where different components handle specific tasks, making the system modular and scalable.
 
-
+🔹 Problem Statement
 Applying to jobs is a repetitive and time-consuming process. Candidates need to customize resumes and write cover letters for every application, which reduces efficiency and consistency.
 
 This project aims to automate and optimize this process using AI.
@@ -22,7 +22,8 @@ This project aims to automate and optimize this process using AI.
 - Streamlit
 - Basic file handling
 
-🔹 Project Structure
+🔹 Project Structure   
+
 job-assistant/
 │── main.py
 │── app.py
@@ -50,5 +51,6 @@ job-assistant/
 
 
 🔹 Author
-Ayushi Jain
+
+    Ayushi Jain
 

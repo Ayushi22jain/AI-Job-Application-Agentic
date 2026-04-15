@@ -26,10 +26,10 @@ This project aims to automate and optimize this process using AI.
 🔹 Project Structure   
 
 job-assistant/
-│── main.py
-│── app.py
-│── resume.txt
-│── job_description.txt
+ │── main.py
+ │── app.py
+ │── resume.txt
+ │── job_description.txt
 
 🔹 How to Run
 1. Install dependencies:

@@ -1,0 +1,19 @@
+Ayushi Jain
+
+Skills:
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Excel
+
+Projects:
+- Performed data cleaning and preprocessing using Python
+- Built Machine Learning projects such as Customer Churn Prediction and TED Talk Analysis
+
+Education:
+- Bachelor of Technology (B.Tech)
+
+Experience:
+- 3 years of experience
+- Currently upskilling in AI, LLMs, and RAG systems

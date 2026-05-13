@@ -7,6 +7,7 @@ An AI-powered system that automates resume optimization and cover letter generat
 🔹 Simulates real-world AI automation systems
 
 
+
 ## 🧠 Agentic Workflow Design
 
 This project follows an agent-based architecture where:

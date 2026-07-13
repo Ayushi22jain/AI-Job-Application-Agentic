@@ -1,5 +1,7 @@
 # 🚀 AI Job Application Assistant (Agentic Workflow)
 
+
+
 An AI-powered system that automates resume optimization and cover letter generation using a modular agent-based architecture.
 
 🔹 Built using Python + Streamlit  
